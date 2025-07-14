@@ -4,5 +4,5 @@ This is a Power BI dashboard visualizing survey data from programming and tech p
 
 ## Preview
 
-![Dashboard Screenshot](images/Dashboard Zoomed in.png)
+![Dashboard Screenshot](Images/Dashboard Zoomed in.png)
 
