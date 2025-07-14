@@ -3,7 +3,8 @@
 This is a Power BI dashboard visualizing survey data from programming and tech professionals.
 
 ## Preview
-![](Images/Dashboard.png)
+![Dashboard Screenshot](Image/Dashboard.png)
+
 
 
 
